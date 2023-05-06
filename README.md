@@ -1,2 +1,2 @@
 # questionnaire.sh
-A questionnaire challenge from freeCodeCamp done with git bash.
+A questionnaire challenge from freeCodeCamp done with bash.
